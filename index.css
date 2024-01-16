@@ -1,0 +1,27 @@
+body{
+    margin: 0;
+background-color: bisque;
+    .main{
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        background-color: lightpink;
+        padding: 10px 20px;
+.symbol{
+    border: 2px solid blue;
+}
+text-shadow: 0 0 10px yellow, 0 0 10px red;
+
+.login, .cart, .seller{
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+    align-items: normal;
+    gap: 20px;
+    
+
+}
+
+
+    }
+}
